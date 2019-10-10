@@ -2,7 +2,7 @@
 Controlling appliances using text messages with help of arduino and GSM module
 
 # Objective:
-1. to minimize the daily workload through automation. \n
+1. to minimize the daily workload through automation.
 2. GSM model implementation aims to promote high level of simplicity in operating our home appliances.
 3. GSM controlled system will deploy the use of text messages through the user's smartphones.
 4. Get rid of handling small day to day jobs manually.
