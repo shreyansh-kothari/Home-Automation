@@ -1,21 +1,21 @@
 # Home-Automation
 Controlling appliances using text messages with help of arduino and GSM module
 
-# Objective
--to minimize the daily workload through automation.
--GSM model implementation aims to promote high level of simplicity in operating our home appliances.
--GSM controlled system will deploy the use of text messages through the user's smartphones.
--Get rid of handling small day to day jobs manually.
--Act as a helping hand for the disabled people, old aged people who are not able to do their tasks by themselves.
--To Implement this technology so that the users can able to control their home appliances from far away from their home effectively.
+# Objective:
+1. to minimize the daily workload through automation. \n
+2. GSM model implementation aims to promote high level of simplicity in operating our home appliances.
+3. GSM controlled system will deploy the use of text messages through the user's smartphones.
+4. Get rid of handling small day to day jobs manually.
+5. Act as a helping hand for the disabled people, old aged people who are not able to do their tasks by themselves.
+6. To Implement this technology so that the users can able to control their home appliances from far away from their home effectively.
 
-# Requirements 
+# Requirements: 
 1.	Arduino and the cables
 2.	GSM Module and power supply adapter
 3.	4-way Relay
 4.	Software : Arduino IDE
 
-# Steps
+# Steps:
 1. Install Arduino IDE 
 2. Make the circuits and given in the Images in Circuit Folder
 3. Connect the arduino to system to upload the code
